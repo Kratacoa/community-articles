@@ -331,11 +331,11 @@ Further readings
 I hope this introduction will be useful to new comers who want to get started
 quickly. However, we've barely scratched the surface of the concepts explained
 above, let alone what was not mentioned at all. If you want to learn more,
-feel to check out the following documents:
+feel free to check out the following documents:
 
 - [the community wiki](https://github.com/mawww/kakoune/wiki): hosted on
   Github for the time being, the community wiki is a collection of topics,
-  snippets, tips added by experimented users
+  snippets, tips added by experienced users
 - the on-board documentation covers the topics glossed over in the above
   explanations, you can read more about them using the `doc` command (for
   example, `:doc scopes<ret>`) or by reading the Asciidoc formatted files
